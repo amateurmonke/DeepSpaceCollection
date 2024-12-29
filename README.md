@@ -8,7 +8,7 @@ This repository aims to showcase the beauty and complexity of the universe. All 
 
 The Mikulski Archive for Space Telescopes (MAST) provides free access to a wealth of astronomical data. This data is invaluable for scientific research and also serves as a fantastic resource for creating stunning visualizations of celestial objects. You can explore MAST at [https://archive.stsci.edu/](https://archive.stsci.edu/).
 
-## Current Objects
+## Current Objects - JWST
 
 ### Pillars of Creation (M16)
 
